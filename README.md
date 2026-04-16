@@ -159,17 +159,6 @@ if (session_status() === PHP_SESSION_NONE) {
 ?>
 ```
 
-### Default Test Accounts
-
-The system comes with pre-configured test accounts:
-
-| Username | Password | Role | Email |
-|----------|----------|------|-------|
-| admin | password123 | Admin | admin@example.com |
-| jdoe | password123 | Manager | john.doe@example.com |
-| mjohnson | password123 | User | mike.johnson@example.com |
-
-**⚠️ IMPORTANT:** Change these passwords in production!
 
 ## 📖 Usage
 
