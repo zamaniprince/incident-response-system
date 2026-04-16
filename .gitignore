@@ -1,0 +1,61 @@
+# Database Configuration
+config.php
+
+# PHP Session Files
+sessions/
+
+# Uploaded Files
+uploads/
+*.log
+
+# Environment Files
+.env
+.env.local
+.env.production
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Temporary Files
+tmp/
+temp/
+cache/
+
+# Node Modules (if using npm)
+node_modules/
+package-lock.json
+
+# Composer (if using composer)
+vendor/
+composer.lock
+
+# Error Logs
+error_log
+php_errors.log
+
+# Sensitive Data
+*.sql
+*.sqlite
+*.db
